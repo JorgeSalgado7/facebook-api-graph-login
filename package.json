@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JorgeSalgado7/vue3-facebook-login.git"
+    "url": "git+https://github.com/JorgeSalgado7/facebook-api-graph-login.git"
   },
   "keywords": [
     "Facebook API Graph",
@@ -20,7 +20,7 @@
   "author": "Jorge Salgado",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JorgeSalgado7/vue3-facebook-login/issues"
+    "url": "https://github.com/JorgeSalgado7/facebook-api-graph-login.git/issues"
   },
-  "homepage": "https://github.com/JorgeSalgado7/vue3-facebook-login#readme"
+  "homepage": "https://github.com/JorgeSalgado7/facebook-api-graph-login.git#readme"
 }
