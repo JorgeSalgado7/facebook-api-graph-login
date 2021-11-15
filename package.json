@@ -1,8 +1,8 @@
 {
   "name": "@jorge-salgado/vue3-facebook-login",
-  "version": "1.0.0",
-  "description": "Vue 3 configuration for Facebook API Graph Log In",
-  "main": "config/facebook-config.js",
+  "version": "1.0.2",
+  "description": "Vue 3 configuration file for Facebook API Graph Log In",
+  "main": "facebook-config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
