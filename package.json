@@ -1,7 +1,7 @@
 {
-  "name": "@jorge-salgado/vue3-facebook-login",
-  "version": "1.0.2",
-  "description": "Vue 3 configuration file for Facebook API Graph Log In",
+  "name": "@jorge-salgado/facebook-api-graph-login",
+  "version": "1.0.3",
+  "description": "Facebook API Graph Log In for JavaScript frameworks",
   "main": "facebook-config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,9 +11,11 @@
     "url": "git+https://github.com/JorgeSalgado7/vue3-facebook-login.git"
   },
   "keywords": [
-    "facebook api grahp",
-    "facebook login",
-    "facebook api"
+    "Facebook API Graph",
+    "Facebook Log In",
+    "Facebook API",
+    "Facebook Log In API",
+    "Facebook Log In JavaScript"
   ],
   "author": "Jorge Salgado",
   "license": "ISC",
