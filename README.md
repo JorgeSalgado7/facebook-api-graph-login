@@ -28,7 +28,7 @@ import  FACEBOOK_API_GRAPH_LOGIN from '@jorge-salgado/facebook-api-graph-login'
   
 export default {
   mounted() {
-    FACEBOOK_API_GRAPH_LOGIN('431274048515964', 'v12.0')
+    FACEBOOK_API_GRAPH_LOGIN('your app ID', 'version')
   },
     
   methods: {
