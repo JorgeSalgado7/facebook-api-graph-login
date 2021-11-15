@@ -1,4 +1,4 @@
-export function VUE3_FACEBOOK_LOGIN(appID, version) {
+function FACEBOOK_API_GRAPH_LOGIN(appID, version){
 
     if(appID === ''  || version === ''){
         return false
@@ -42,4 +42,4 @@ export function VUE3_FACEBOOK_LOGIN(appID, version) {
 
 }
 
-module.exports = VUE3_FACEBOOK_LOGIN
+module.exports = FACEBOOK_API_GRAPH_LOGIN
