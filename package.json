@@ -1,5 +1,5 @@
 {
-  "name": "vue3-facebook-login",
+  "name": "@jorge-salgado/vue3-facebook-login",
   "version": "1.0.0",
   "description": "Vue 3 configuration for Facebook API Graph Log In",
   "main": "config/facebook-config.js",
@@ -11,10 +11,9 @@
     "url": "git+https://github.com/JorgeSalgado7/vue3-facebook-login.git"
   },
   "keywords": [
-    "facebook",
-    "login",
-    "api",
-    "graph"
+    "facebook api grahp",
+    "facebook login",
+    "facebook api"
   ],
   "author": "Jorge Salgado",
   "license": "ISC",
