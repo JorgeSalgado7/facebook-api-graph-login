@@ -36,7 +36,29 @@ export default {
     LogInWithFacebook() {
       window.FB.login(
         (response) => {
-          console.log(response)
+
+          if(response.authResponse){
+            window.FB.api('/me', 
+              {
+                fields: 'id, first_name, last_name, email, gender, locale'
+              },
+              (response) => {
+
+                let profile = {
+                  id: response.id,
+                  first_name: response.first_name,
+                  last_name: response.last_name,
+                  email: response.email,
+                  gender: response.gender,
+                  profile_picture: response.picture.data.url,                      
+                }
+                                    
+                console.log(profile)
+
+              }
+            )
+          }
+
         },
         { scope: 'email', }
       )

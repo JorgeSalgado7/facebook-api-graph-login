@@ -1,6 +1,6 @@
 {
   "name": "@jorge-salgado/facebook-api-graph-login",
-  "version": "1.0.9",
+  "version": "2.0.0",
   "description": "Facebook API Graph Log In for JavaScript frameworks",
   "main": "facebook-config.js",
   "scripts": {
